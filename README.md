@@ -1,2 +1,2 @@
 # simple-menu-react
-Using React
+very very simple menu using React
